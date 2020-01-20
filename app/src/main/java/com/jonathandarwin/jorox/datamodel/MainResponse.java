@@ -1,7 +1,7 @@
-package com.jonathandarwin.rxvolley.datamodel;
+package com.jonathandarwin.jorox.datamodel;
 
 import com.google.gson.annotations.SerializedName;
-import com.jonathandarwin.rxvolley.model.User;
+import com.jonathandarwin.jorox.model.User;
 
 import java.util.List;
 

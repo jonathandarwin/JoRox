@@ -1,4 +1,4 @@
-package com.jonathandarwin.rxvolley;
+package com.jonathandarwin.jorox;
 
 import org.junit.Test;
 

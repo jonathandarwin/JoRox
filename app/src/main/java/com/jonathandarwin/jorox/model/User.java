@@ -1,7 +1,7 @@
-package com.jonathandarwin.rxvolley.model;
+package com.jonathandarwin.jorox.model;
 
 import com.google.gson.annotations.SerializedName;
-import com.jonathandarwin.rxvolley.BR;
+import com.jonathandarwin.jorox.BR;
 
 import androidx.databinding.BaseObservable;
 import androidx.databinding.Bindable;

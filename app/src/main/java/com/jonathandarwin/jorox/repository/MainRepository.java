@@ -1,10 +1,10 @@
-package com.jonathandarwin.rxvolley.repository;
+package com.jonathandarwin.jorox.repository;
 
 import android.app.Application;
 
-import com.jonathandarwin.rxvolley.datamodel.MainRequest;
-import com.jonathandarwin.rxvolley.datamodel.MainResponse;
-import com.jonathandarwin.rxvolley.repository.remote.JoRox;
+import com.jonathandarwin.jorox.datamodel.MainRequest;
+import com.jonathandarwin.jorox.datamodel.MainResponse;
+import com.jonathandarwin.jorox.repository.remote.JoRox;
 
 import rx.Observable;
 

@@ -1,11 +1,11 @@
-package com.jonathandarwin.rxvolley.ui;
+package com.jonathandarwin.jorox.ui;
 
 import android.view.LayoutInflater;
 import android.view.ViewGroup;
 
-import com.jonathandarwin.rxvolley.R;
-import com.jonathandarwin.rxvolley.databinding.ListUserItemBinding;
-import com.jonathandarwin.rxvolley.model.User;
+import com.jonathandarwin.jorox.R;
+import com.jonathandarwin.jorox.databinding.ListUserItemBinding;
+import com.jonathandarwin.jorox.model.User;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package com.jonathandarwin.rxvolley.repository.remote;
+package com.jonathandarwin.jorox.repository.remote;
 
 import android.app.Application;
 

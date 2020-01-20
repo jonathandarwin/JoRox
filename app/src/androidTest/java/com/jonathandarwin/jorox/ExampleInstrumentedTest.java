@@ -1,4 +1,4 @@
-package com.jonathandarwin.rxvolley;
+package com.jonathandarwin.jorox;
 
 import android.content.Context;
 
@@ -22,6 +22,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.jonathandarwin.rxvolley", appContext.getPackageName());
+        assertEquals("com.jonathandarwin.jorox", appContext.getPackageName());
     }
 }

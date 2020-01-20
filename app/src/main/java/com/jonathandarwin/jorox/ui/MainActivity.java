@@ -1,4 +1,4 @@
-package com.jonathandarwin.rxvolley.ui;
+package com.jonathandarwin.jorox.ui;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.databinding.DataBindingUtil;
@@ -9,9 +9,9 @@ import androidx.recyclerview.widget.LinearLayoutManager;
 import android.os.Bundle;
 import android.view.View;
 
-import com.jonathandarwin.rxvolley.R;
-import com.jonathandarwin.rxvolley.databinding.MainActivityBinding;
-import com.jonathandarwin.rxvolley.model.User;
+import com.jonathandarwin.jorox.R;
+import com.jonathandarwin.jorox.databinding.MainActivityBinding;
+import com.jonathandarwin.jorox.model.User;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,9 +1,9 @@
-package com.jonathandarwin.rxvolley.ui;
+package com.jonathandarwin.jorox.ui;
 
 import android.app.Application;
 
-import com.jonathandarwin.rxvolley.model.User;
-import com.jonathandarwin.rxvolley.repository.MainRepository;
+import com.jonathandarwin.jorox.model.User;
+import com.jonathandarwin.jorox.repository.MainRepository;
 
 import java.util.ArrayList;
 import java.util.List;

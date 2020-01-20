@@ -1,4 +1,4 @@
-package com.jonathandarwin.rxvolley.datamodel;
+package com.jonathandarwin.jorox.datamodel;
 
 public class MainRequest {
 }
